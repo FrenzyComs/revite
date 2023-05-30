@@ -107,7 +107,7 @@ export function EmojiSelector({ value, setValue }: Props) {
                                 href="https://mutant.transfem.pp.ua"
                                 target="_blank"
                                 rel="noreferrer">
-                                (by Revolt)
+                                (by Frenzy)
                             </a>
                         </h4>
                     </div>

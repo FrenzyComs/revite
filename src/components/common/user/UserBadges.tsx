@@ -69,7 +69,7 @@ export default function UserBadges({ badges, uid }: Props) {
                             }}
                             onClick={() => {
                                 window.open(
-                                    "https://weblate.insrt.uk/projects/revolt/web-app/",
+                                    "https://github.com/FrenzyComs/translations",
                                     "_blank",
                                 );
                             }}

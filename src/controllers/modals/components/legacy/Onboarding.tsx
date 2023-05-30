@@ -39,7 +39,7 @@ export function OnboardingModal({
         <div className={styles.onboarding}>
             <div className={styles.container}>
                 <div className={styles.header}>
-                    <h1>{"Welcome to Revolt."}</h1>
+                    <h1>{"Hiya, welcome to Frenzy!"}</h1>
                 </div>
                 <div className={styles.form}>
                     {loading ? (
@@ -47,10 +47,14 @@ export function OnboardingModal({
                     ) : (
                         <>
                             <p>
-                                {"It's time to choose a username."}
+                                {"It's time to choose a name."}
                                 <br />
                                 {
                                     "Others will be able to find, recognise and mention you with this name, so choose wisely."
+                                }
+                                <br />
+                                {
+                                    "Remember to follow our Acceptable Usage Policy while choosing your name!"
                                 }
                                 <br />
                                 {

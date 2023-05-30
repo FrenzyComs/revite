@@ -102,7 +102,7 @@ export default function Discover() {
     function sendTheme(theme?: Overrides) {
         ref.current?.contentWindow?.postMessage(
             JSON.stringify({
-                source: "revolt",
+                source: "frenzy",
                 type: "theme",
                 theme: theme ?? state.settings.theme.computeVariables(),
             }),

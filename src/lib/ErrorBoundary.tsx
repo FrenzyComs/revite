@@ -101,7 +101,7 @@ export default function ErrorBoundary({ children, section }: Props) {
                 )}
                 <br />
                 <br />
-                <div>Revolt has crashed. Here's the error:</div>
+                <div>Frenzy has crashed. Here's the error:</div>
                 <pre>
                     <code>{error?.stack}</code>
                 </pre>

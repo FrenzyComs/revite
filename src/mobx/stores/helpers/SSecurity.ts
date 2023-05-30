@@ -2,7 +2,7 @@ import { makeAutoObservable, computed, action } from "mobx";
 
 import Settings from "../Settings";
 
-const TRUSTED_DOMAINS = ["transfem.pp.ua", "revolt.wtf", "gifbox.me", "rvlt.gg"];
+const TRUSTED_DOMAINS = ["transfem.pp.ua"];
 
 /**
  * Helper class for changing security options.

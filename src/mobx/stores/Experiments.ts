@@ -35,7 +35,7 @@ export const EXPERIMENTS: {
     offline_users: {
         title: "Re-enable offline users in large servers (>10k members)",
         description:
-            "If you can take the performance hit - for example, if you're on desktop - you can re-enable offline users for big servers such as the Revolt Lounge.",
+            "If you can take the performance hit - for example, if you're on desktop - you can re-enable offline users for big servers such as The Revolt.",
     },
     plugins: {
         title: "Experimental Plugin API",

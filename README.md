@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the web client for Revolt, which is also available live at [app.transfem.pp.ua](https://app.transfem.pp.ua).
+This is the web client for , which is also available live at [app.transfem.pp.ua](https://app.transfem.pp.ua).
 
 ## Pending Rewrite
 
@@ -29,10 +29,10 @@ It is also recommended to run `git submodule update` after you pull from upstrea
 -   [Revite Issue Board](https://github.com/FrenzyComs/revite/issues)
 -   [Google Drive Folder with Screenshots](https://drive.google.com/drive/folders/1Ckhl7_9OTTaKzyisrWHzZw1hHj55JwhD)
 
-### Revolt
+### 
 
--   [Revolt Project Board](https://github.com/FrenzyComs/revolt/discussions) (Submit feature requests here)
--   [Revolt Testers Server](https://app.transfem.pp.ua/invite/Testers)
+-   [ Project Board](https://github.com/FrenzyComs//discussions) (Submit feature requests here)
+-   [ Testers Server](https://app.transfem.pp.ua/invite/Testers)
 -   [Contribution Guide](https://developers.transfem.pp.ua/contributing)
 
 ## Quick Start
@@ -54,8 +54,8 @@ You can now access the client at http://local.transfem.pp.ua:3000.
 | Command                                 | Description                                  |
 | --------------------------------------- | -------------------------------------------- |
 | `yarn pull`                             | Setup assets required for Revite.            |
-| `yarn dev`                              | Start the Revolt client in development mode. |
-| `yarn build`                            | Build the Revolt client.                     |
+| `yarn dev`                              | Start the  client in development mode. |
+| `yarn build`                            | Build the  client.                     |
 | `yarn build:deps`                       | Build external dependencies.                 |
 | `yarn preview`                          | Start a local server with the built client.  |
 | `yarn lint`                             | Run ESLint on the client.                    |

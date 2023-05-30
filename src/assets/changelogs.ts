@@ -40,7 +40,7 @@ export const changelogEntries: Record<number, ChangelogPost> = {
                 src: "https://autumn.transfem.pp.ua/attachments/ZuDVIjGiCl61Pk9XGk5qfc8-idN9EnFAk55DUQp713/the.png",
                 shadow: true,
             },
-            "If you want to learn more about how we're making Revolt safer for you, check out our new blog post :point_right: [https://transfem.pp.ua/posts/improving-user-safety](https://transfem.pp.ua/posts/improving-user-safety)",
+            "If you want to learn more about how we're making Frenzy safer for you, check out our new blog post :point_right: [https://transfem.pp.ua/posts/improving-user-safety](https://transfem.pp.ua/posts/improving-user-safety)",
         ],
     },
 };

@@ -164,7 +164,7 @@ export const Form = observer(({ page, callback }: Props) => {
                                 : "login.subtitle"
                         }
                     />
-                    <div>(app.revolt.chat)</div>
+                    <div>(app.transfem.pp.ua)</div>
                 </div>
             </div>
 
@@ -259,7 +259,7 @@ export const Form = observer(({ page, callback }: Props) => {
                                 <span>
                                     <Text id="login.unofficial_instance" />{" "}
                                     <a
-                                        href="https://developers.revolt.chat/faq/instances#what-is-a-third-party-instance"
+                                        href="https://developers.transfem.pp.ua/faq/instances#what-is-a-third-party-instance"
                                         style={{ color: "var(--accent)" }}
                                         target="_blank"
                                         rel="noreferrer">

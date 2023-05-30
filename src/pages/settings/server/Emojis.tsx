@@ -38,7 +38,7 @@ export const Emojis = observer(({ server }: Props) => {
                     This UI was never finished and will be polished in the{" "}
                     <a
                         style={{ color: "inherit", fontWeight: "600" }}
-                        href="https://github.com/revoltchat/frontend/issues/14"
+                        href="https://github.com/FrenzyComs/frontend/issues/14"
                         target="_blank"
                         rel="noreferrer">
                         new client

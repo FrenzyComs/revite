@@ -523,7 +523,7 @@ export const MyBots = observer(() => {
             <h5>
                 By creating a bot, you are agreeing to the {` `}
                 <a
-                    href="https://revolt.chat/aup"
+                    href="https://transfem.pp.ua/aup"
                     target="_blank"
                     rel="noreferrer">
                     Acceptable Usage Policy

@@ -76,17 +76,12 @@ export default observer(() => {
                         <div className={styles.links}>
                             <div className={styles.socials}>
                                 <a
-                                    href="https://github.com/revoltchat"
+                                    href="https://github.com/FrenzyComs"
                                     target="_blank" rel="noreferrer">
                                     <Github size={24} />
                                 </a>
                                 <a
-                                    href="https://twitter.com/revoltchat"
-                                    target="_blank" rel="noreferrer">
-                                    <Twitter size={24} />
-                                </a>
-                                <a
-                                    href="https://mastodon.social/@revoltchat"
+                                    href="https://tech.lgbt/@ripples1253"
                                     target="_blank" rel="noreferrer">
                                     <Mastodon size={24} />
                                 </a>
@@ -94,19 +89,19 @@ export default observer(() => {
                             <div className={styles.bullet} />
                             <div className={styles.revolt}>
                                 <a
-                                    href="https://revolt.chat/about"
+                                    href="https://transfem.pp.ua/about"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.about" />
                                 </a>
                                 <a
-                                    href="https://revolt.chat/terms"
+                                    href="https://transfem.pp.ua/terms"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.tos" />
                                 </a>
                                 <a
-                                    href="https://revolt.chat/privacy"
+                                    href="https://transfem.pp.ua/privacy"
                                     target="_blank"
                                     rel="noreferrer">
                                     <Text id="general.privacy" />

@@ -14,9 +14,9 @@ type LinkType =
  */
 const ALLOWED_ORIGINS = [
     location.hostname,
-    "app.revolt.chat",
-    "nightly.revolt.chat",
-    "local.revolt.chat",
+    "app.transfem.pp.ua",
+    "nightly.transfem.pp.ua",
+    "local.transfem.pp.ua",
     "rolt.chat",
 ];
 

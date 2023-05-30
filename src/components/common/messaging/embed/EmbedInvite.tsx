@@ -168,9 +168,9 @@ export function EmbedInvite({ code }: Props) {
 
 const INVITE_PATHS = [
     `${location.hostname}/invite`,
-    "app.revolt.chat/invite",
-    "nightly.revolt.chat/invite",
-    "local.revolt.chat/invite",
+    "app.transfem.pp.ua/invite",
+    "nightly.transfem.pp.ua/invite",
+    "local.transfem.pp.ua/invite",
     "rvlt.gg",
 ];
 

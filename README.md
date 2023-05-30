@@ -2,14 +2,14 @@
 
 ## Description
 
-This is the web client for Revolt, which is also available live at [app.revolt.chat](https://app.revolt.chat).
+This is the web client for Revolt, which is also available live at [app.transfem.pp.ua](https://app.transfem.pp.ua).
 
 ## Pending Rewrite
 
 The following code is pending a partial or full rewrite:
 
--   `src/components`: components are being migrated to [revoltchat/components](https://github.com/revoltchat/components)
--   `src/styles`: needs to be migrated to [revoltchat/components](https://github.com/revoltchat/components)
+-   `src/components`: components are being migrated to [revoltchat/components](https://github.com/FrenzyComs/components)
+-   `src/styles`: needs to be migrated to [revoltchat/components](https://github.com/FrenzyComs/components)
 -   `src/lib`: this needs to be organised
 
 ## Stack
@@ -26,28 +26,28 @@ It is also recommended to run `git submodule update` after you pull from upstrea
 
 ### Revite
 
--   [Revite Issue Board](https://github.com/revoltchat/revite/issues)
+-   [Revite Issue Board](https://github.com/FrenzyComs/revite/issues)
 -   [Google Drive Folder with Screenshots](https://drive.google.com/drive/folders/1Ckhl7_9OTTaKzyisrWHzZw1hHj55JwhD)
 
 ### Revolt
 
--   [Revolt Project Board](https://github.com/revoltchat/revolt/discussions) (Submit feature requests here)
--   [Revolt Testers Server](https://app.revolt.chat/invite/Testers)
--   [Contribution Guide](https://developers.revolt.chat/contributing)
+-   [Revolt Project Board](https://github.com/FrenzyComs/revolt/discussions) (Submit feature requests here)
+-   [Revolt Testers Server](https://app.transfem.pp.ua/invite/Testers)
+-   [Contribution Guide](https://developers.transfem.pp.ua/contributing)
 
 ## Quick Start
 
 Get revite up and running locally.
 
 ```
-git clone --recursive https://github.com/revoltchat/revite
+git clone --recursive https://github.com/FrenzyComs/revite
 cd revite
 yarn
 yarn build:deps
 yarn dev
 ```
 
-You can now access the client at http://local.revolt.chat:3000.
+You can now access the client at http://local.transfem.pp.ua:3000.
 
 ## CLI Commands
 
@@ -67,4 +67,4 @@ You can now access the client at http://local.revolt.chat:3000.
 
 ## License
 
-Revite is licensed under the [GNU Affero General Public License v3.0](https://github.com/revoltchat/revite/blob/master/LICENSE).
+Revite is licensed under the [GNU Affero General Public License v3.0](https://github.com/FrenzyComs/revite/blob/master/LICENSE).

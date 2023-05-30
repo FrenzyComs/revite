@@ -14,7 +14,7 @@ REMOTE_DIR=/root/revite
 POST_INSTALL="pm2 restart revite"
 
 # Assets
-export REVOLT_SAAS=https://github.com/revoltchat/assets
+export REVOLT_SAAS=https://github.com/FrenzyComs/assets
 
 
 # Exit when any command fails

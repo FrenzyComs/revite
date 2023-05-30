@@ -65,7 +65,7 @@ export default observer((props: Props) => {
         <Base>
             <img
                 loading="eager"
-                src={"https://static.revolt.chat/emoji/mutant/26a0.svg"}
+                src={"https://static.transfem.pp.ua/emoji/mutant/26a0.svg"}
                 draggable={false}
             />
             <h2>{props.channel.name}</h2>

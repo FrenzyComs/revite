@@ -99,7 +99,7 @@ export function Audio() {
                         We are currently{" "}
                         <a
                             style={{ color: "inherit", fontWeight: "600" }}
-                            href="https://github.com/revoltchat/frontend/issues/14"
+                            href="https://github.com/FrenzyComs/frontend/issues/14"
                             target="_blank"
                             rel="noreferrer">
                             rebuilding the client

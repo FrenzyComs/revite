@@ -15,7 +15,7 @@ export function Feedback() {
                     We are currently rebuilding the client from scratch. You can{" "}
                     <a
                         style={{ color: "inherit", fontWeight: "600" }}
-                        href="https://github.com/revoltchat/frontend/issues/14"
+                        href="https://github.com/FrenzyComs/frontend/issues/14"
                         target="_blank"
                         rel="noreferrer">
                         view our progress here
@@ -26,7 +26,7 @@ export function Feedback() {
             </Tip>
             <div className={styles.feedback}>
                 <a
-                    href="https://github.com/revoltchat/revolt/discussions"
+                    href="https://github.com/FrenzyComs/revolt/discussions"
                     target="_blank"
                     rel="noreferrer">
                     <CategoryButton
@@ -39,7 +39,7 @@ export function Feedback() {
                     </CategoryButton>
                 </a>
                 <a
-                    href="https://github.com/revoltchat/revite/issues/new/choose"
+                    href="https://github.com/FrenzyComs/revite/issues/new/choose"
                     target="_blank"
                     rel="noreferrer">
                     <CategoryButton

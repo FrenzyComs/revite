@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://local.revolt.chat:3000",
+            "url": "http://local.transfem.pp.ua:3000",
             "webRoot": "${workspaceFolder}",
             "runtimeExecutable": "/usr/bin/chromium",
             "userDataDir": "${workspaceFolder}/.vscode/chrome_data"

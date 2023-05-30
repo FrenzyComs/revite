@@ -50,7 +50,7 @@ export function parseEmoji(emoji: string) {
     }
 
     const codepoint = toCodePoint(emoji);
-    return `https://static.revolt.chat/emoji/${EMOJI_PACK}/${codepoint}.svg?rev=${REVISION}`;
+    return `https://static.transfem.pp.ua/emoji/${EMOJI_PACK}/${codepoint}.svg?rev=${REVISION}`;
 }
 
 export default function Emoji({

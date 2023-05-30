@@ -6,6 +6,12 @@
                 "legacy": false,
                 "decoratorsBeforeExport": true
             }
+        ],
+        [
+            "@babel/plugin-proposal-class-properties",
+            {
+                "legacy": false
+            }
         ]
     ]
 }

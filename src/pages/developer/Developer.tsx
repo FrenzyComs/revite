@@ -2,7 +2,7 @@ import { Wrench } from "@styled-icons/boxicons-solid";
 
 import { useEffect, useState } from "preact/hooks";
 
-import { Button } from "@FrenzyComs/ui";
+import { Button } from "@frenzycoms/ui";
 
 import PaintCounter from "../../lib/PaintCounter";
 import { TextReact } from "../../lib/i18n";

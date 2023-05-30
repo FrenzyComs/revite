@@ -5,7 +5,7 @@ import { API } from "revolt.js";
 import { Text } from "preact-i18n";
 import { useCallback, useEffect, useState } from "preact/hooks";
 
-import { Category, CategoryButton, Error, Tip } from "@FrenzyComs/ui";
+import { Category, CategoryButton, Error, Tip } from "@frenzycoms/ui";
 
 import { useSession } from "../../../controllers/client/ClientController";
 import { takeError } from "../../../controllers/client/jsx/error";

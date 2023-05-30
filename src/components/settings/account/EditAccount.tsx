@@ -10,7 +10,7 @@ import {
     CategoryButton,
     Column,
     HiddenValue,
-} from "@FrenzyComs/ui";
+} from "@frenzycoms/ui";
 
 import { useSession } from "../../../controllers/client/ClientController";
 import { modalController } from "../../../controllers/modals/ModalController";

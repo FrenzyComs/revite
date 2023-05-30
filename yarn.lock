@@ -2299,9 +2299,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@FrenzyComs/ui@portal:external/components::locator=client%40workspace%3A.":
+"@frenzycoms/ui@portal:external/components::locator=client%40workspace%3A.":
   version: 0.0.0-use.local
-  resolution: "@FrenzyComs/ui@portal:external/components::locator=client%40workspace%3A."
+  resolution: "@frenzycoms/ui@portal:external/components::locator=client%40workspace%3A."
   dependencies:
     "@styled-icons/boxicons-logos": ^10.38.0
     "@styled-icons/boxicons-regular": ^10.38.0
@@ -3688,7 +3688,7 @@ __metadata:
     "@hcaptcha/react-hcaptcha": ^1.4.4
     "@insertish/vite-plugin-babel-macros": ^1.0.5
     "@preact/preset-vite": ^2.0.0
-    "@FrenzyComs/ui": ^1.0.77
+    "@frenzycoms/ui": ^1.0.77
     "@rollup/plugin-replace": ^2.4.2
     "@styled-icons/boxicons-logos": ^10.38.0
     "@styled-icons/boxicons-regular": ^10.38.0

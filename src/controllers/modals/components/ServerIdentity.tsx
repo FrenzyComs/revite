@@ -15,7 +15,7 @@ import {
     Modal,
     Row,
     Message,
-} from "@FrenzyComs/ui";
+} from "@frenzycoms/ui";
 
 import { noop } from "../../../lib/js";
 

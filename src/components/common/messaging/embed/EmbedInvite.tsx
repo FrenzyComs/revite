@@ -6,7 +6,7 @@ import styled, { css } from "styled-components/macro";
 
 import { useContext, useEffect, useState } from "preact/hooks";
 
-import { Button, Category, Preloader } from "@FrenzyComs/ui";
+import { Button, Category, Preloader } from "@frenzycoms/ui";
 
 import { isTouchscreenDevice } from "../../../../lib/isTouchscreenDevice";
 

@@ -7,7 +7,7 @@ import styled from "styled-components/macro";
 import { openContextMenu } from "preact-context-menu";
 import { Text, Localizer } from "preact-i18n";
 
-import { Header, IconButton } from "@FrenzyComs/ui";
+import { Header, IconButton } from "@frenzycoms/ui";
 
 import { isTouchscreenDevice } from "../../../lib/isTouchscreenDevice";
 

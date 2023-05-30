@@ -3,7 +3,7 @@ import { observer } from "mobx-react-lite";
 import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";
 
-import { Button, Checkbox, Tip } from "@FrenzyComs/ui";
+import { Button, Checkbox, Tip } from "@frenzycoms/ui";
 
 import { useApplicationState } from "../../../mobx/State";
 

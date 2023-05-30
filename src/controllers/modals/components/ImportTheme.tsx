@@ -1,6 +1,6 @@
 import { Text } from "preact-i18n";
 
-import { ModalForm } from "@FrenzyComs/ui";
+import { ModalForm } from "@frenzycoms/ui";
 
 import { state } from "../../../mobx/State";
 

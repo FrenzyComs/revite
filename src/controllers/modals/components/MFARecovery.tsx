@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { Text } from "preact-i18n";
 import { useCallback, useState } from "preact/hooks";
 
-import { Modal } from "@FrenzyComs/ui";
+import { Modal } from "@frenzycoms/ui";
 
 import { noopTrue } from "../../../lib/js";
 

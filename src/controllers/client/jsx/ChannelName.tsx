@@ -1,4 +1,4 @@
-// ! This should be moved into @FrenzyComs/ui
+// ! This should be moved into @frenzycoms/ui
 import { Channel } from "revolt.js";
 
 import { Text } from "preact-i18n";

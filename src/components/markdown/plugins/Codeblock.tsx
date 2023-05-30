@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 import { useCallback, useRef } from "preact/hooks";
 
-import { Tooltip } from "@FrenzyComs/ui";
+import { Tooltip } from "@frenzycoms/ui";
 
 import { modalController } from "../../../controllers/modals/ModalController";
 

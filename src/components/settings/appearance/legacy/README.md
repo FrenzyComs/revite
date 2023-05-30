@@ -1,1 +1,1 @@
-These components need to be ported to @FrenzyComs/ui.
+These components need to be ported to @frenzycoms/ui.

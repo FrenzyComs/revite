@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 import { Text } from "preact-i18n";
 
-import { Button, Column, Row, Stacked, Tip } from "@FrenzyComs/ui";
+import { Button, Column, Row, Stacked, Tip } from "@frenzycoms/ui";
 
 import UserShort from "../../../components/common/user/UserShort";
 import { EmojiUploader } from "../../../components/settings/customisation/EmojiUploader";

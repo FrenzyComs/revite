@@ -3,7 +3,7 @@ import { observer } from "mobx-react-lite";
 import { useHistory, useLocation } from "react-router";
 import styled, { css } from "styled-components/macro";
 
-import { Centred, IconButton } from "@FrenzyComs/ui";
+import { Centred, IconButton } from "@frenzycoms/ui";
 
 import ConditionalLink from "../../lib/ConditionalLink";
 

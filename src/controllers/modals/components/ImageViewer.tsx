@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-import { Modal } from "@FrenzyComs/ui";
+import { Modal } from "@frenzycoms/ui";
 
 import AttachmentActions from "../../../components/common/messaging/attachments/AttachmentActions";
 import EmbedMediaActions from "../../../components/common/messaging/embed/EmbedMediaActions";

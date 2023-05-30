@@ -16,7 +16,7 @@ import {
     ColourSwatches,
     InputBox,
     Category,
-} from "@FrenzyComs/ui";
+} from "@frenzycoms/ui";
 
 import Tooltip from "../../../components/common/Tooltip";
 import { PermissionList } from "../../../components/settings/roles/PermissionList";

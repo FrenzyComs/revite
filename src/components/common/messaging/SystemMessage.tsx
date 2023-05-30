@@ -19,7 +19,7 @@ import { decodeTime } from "ulid";
 import { useTriggerEvents } from "preact-context-menu";
 import { Text } from "preact-i18n";
 
-import { Row } from "@FrenzyComs/ui";
+import { Row } from "@frenzycoms/ui";
 
 import { TextReact } from "../../../lib/i18n";
 

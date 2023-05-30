@@ -26,7 +26,7 @@ import {
     LineDivider,
     Preloader,
     Tip,
-} from "@FrenzyComs/ui";
+} from "@frenzycoms/ui";
 
 import { dayjs } from "../../../context/Locale";
 

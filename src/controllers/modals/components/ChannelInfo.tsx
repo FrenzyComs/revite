@@ -1,6 +1,6 @@
 import { X } from "@styled-icons/boxicons-regular";
 
-import { Column, H1, IconButton, Modal, Row } from "@FrenzyComs/ui";
+import { Column, H1, IconButton, Modal, Row } from "@frenzycoms/ui";
 
 import Markdown from "../../../components/markdown/Markdown";
 import { modalController } from "../ModalController";

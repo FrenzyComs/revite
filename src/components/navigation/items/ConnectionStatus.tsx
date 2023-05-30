@@ -2,7 +2,7 @@ import { observer } from "mobx-react-lite";
 
 import { Text } from "preact-i18n";
 
-import { Banner, Button, Column } from "@FrenzyComs/ui";
+import { Banner, Button, Column } from "@frenzycoms/ui";
 
 import { useSession } from "../../../controllers/client/ClientController";
 

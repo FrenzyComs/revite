@@ -1,6 +1,6 @@
 import { Text } from "preact-i18n";
 
-import { Column, ObservedInputElement } from "@FrenzyComs/ui";
+import { Column, ObservedInputElement } from "@frenzycoms/ui";
 
 import { useApplicationState } from "../../../mobx/State";
 

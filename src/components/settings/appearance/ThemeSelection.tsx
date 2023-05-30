@@ -6,7 +6,7 @@ import pSBC from "shade-blend-color";
 
 import { Text } from "preact-i18n";
 
-import { CategoryButton, ObservedInputElement } from "@FrenzyComs/ui";
+import { CategoryButton, ObservedInputElement } from "@frenzycoms/ui";
 
 import { useApplicationState } from "../../../mobx/State";
 

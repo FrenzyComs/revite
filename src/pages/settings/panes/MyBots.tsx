@@ -16,7 +16,7 @@ import {
     Checkbox,
     InputBox,
     Tip,
-} from "@FrenzyComs/ui";
+} from "@frenzycoms/ui";
 
 import TextAreaAutoSize from "../../../lib/TextAreaAutoSize";
 import { internalEmit } from "../../../lib/eventEmitter";

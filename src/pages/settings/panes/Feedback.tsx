@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";
 
-import { CategoryButton, Column, Tip } from "@FrenzyComs/ui";
+import { CategoryButton, Column, Tip } from "@frenzycoms/ui";
 
 export function Feedback() {
     return (

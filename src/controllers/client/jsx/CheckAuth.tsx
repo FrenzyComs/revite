@@ -1,7 +1,7 @@
 import { observer } from "mobx-react-lite";
 import { Redirect } from "react-router-dom";
 
-import { Preloader } from "@FrenzyComs/ui";
+import { Preloader } from "@frenzycoms/ui";
 
 import { clientController } from "../ClientController";
 

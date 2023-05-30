@@ -1,6 +1,6 @@
 import { action, computed, makeAutoObservable } from "mobx";
 
-import { reorder } from "@FrenzyComs/ui";
+import { reorder } from "@frenzycoms/ui";
 
 import { clientController } from "../../controllers/client/ClientController";
 import State from "../State";

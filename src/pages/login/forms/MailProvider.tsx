@@ -1,7 +1,7 @@
 import styles from "../Login.module.scss";
 import { Text } from "preact-i18n";
 
-import { Button, Tip } from "@FrenzyComs/ui";
+import { Button, Tip } from "@frenzycoms/ui";
 
 interface Props {
     email?: string;

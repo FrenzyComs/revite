@@ -123,7 +123,7 @@ export default defineConfig({
         },
     },
     optimizeDeps: {
-        exclude: ["revolt.js", "preact-context-menu", "@FrenzyComs/ui"],
+        exclude: ["revolt.js", "preact-context-menu", "@frenzycoms/ui"],
     },
     resolve: {
         preserveSymlinks: true,

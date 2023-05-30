@@ -2,7 +2,7 @@ import { observer } from "mobx-react-lite";
 
 import { Text } from "preact-i18n";
 
-import { ObservedInputElement } from "@FrenzyComs/ui";
+import { ObservedInputElement } from "@frenzycoms/ui";
 
 import TextAreaAutoSize from "../../../lib/TextAreaAutoSize";
 

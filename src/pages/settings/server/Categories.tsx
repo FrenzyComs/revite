@@ -8,7 +8,7 @@ import { ulid } from "ulid";
 import { Text } from "preact-i18n";
 import { useCallback, useEffect, useMemo, useState } from "preact/hooks";
 
-import { SaveStatus } from "@FrenzyComs/ui";
+import { SaveStatus } from "@frenzycoms/ui";
 
 import { useAutosave } from "../../../lib/debounce";
 import { Draggable, Droppable } from "../../../lib/dnd";

@@ -2,7 +2,7 @@ import { Pencil } from "@styled-icons/boxicons-regular";
 import { observer } from "mobx-react-lite";
 import styled from "styled-components/macro";
 
-import { InputBox } from "@FrenzyComs/ui";
+import { InputBox } from "@frenzycoms/ui";
 
 import { useDebounceCallback } from "../../../../lib/debounce";
 

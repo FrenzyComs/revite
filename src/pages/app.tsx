@@ -2,7 +2,7 @@ import { Route, Switch } from "react-router-dom";
 
 import { lazy, Suspense } from "preact/compat";
 
-import { Masks, Preloader } from "@FrenzyComs/ui";
+import { Masks, Preloader } from "@frenzycoms/ui";
 
 import ErrorBoundary from "../lib/ErrorBoundary";
 

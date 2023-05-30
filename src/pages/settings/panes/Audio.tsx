@@ -2,7 +2,7 @@ import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";
 import { useEffect, useState } from "preact/hooks";
 
-import { Button, Category, ComboBox, Tip } from "@FrenzyComs/ui";
+import { Button, Category, ComboBox, Tip } from "@frenzycoms/ui";
 
 import { stopPropagation } from "../../../lib/stopPropagation";
 import { voiceState } from "../../../lib/vortex/VoiceState";

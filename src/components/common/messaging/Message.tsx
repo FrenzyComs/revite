@@ -5,7 +5,7 @@ import { useTriggerEvents } from "preact-context-menu";
 import { memo } from "preact/compat";
 import { useEffect, useState } from "preact/hooks";
 
-import { Category, Button } from "@FrenzyComs/ui";
+import { Category, Button } from "@frenzycoms/ui";
 
 import { internalEmit } from "../../../lib/eventEmitter";
 import { isTouchscreenDevice } from "../../../lib/isTouchscreenDevice";

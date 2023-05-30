@@ -17,7 +17,7 @@ import "./snow.scss";
 import { Text } from "preact-i18n";
 import { useMemo } from "preact/hooks";
 
-import { CategoryButton } from "@FrenzyComs/ui";
+import { CategoryButton } from "@frenzycoms/ui";
 
 import { isTouchscreenDevice } from "../../lib/isTouchscreenDevice";
 

@@ -7,7 +7,7 @@ import classNames from "classnames";
 import { Text } from "preact-i18n";
 import { useCallback, useEffect, useRef, useState } from "preact/hooks";
 
-import { Category, Header, IconButton, LineDivider } from "@FrenzyComs/ui";
+import { Category, Header, IconButton, LineDivider } from "@frenzycoms/ui";
 
 import { isTouchscreenDevice } from "../../lib/isTouchscreenDevice";
 

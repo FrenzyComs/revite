@@ -1,4 +1,4 @@
-import { ComboBox } from "@FrenzyComs/ui";
+import { ComboBox } from "@frenzycoms/ui";
 
 import { useApplicationState } from "../../mobx/State";
 

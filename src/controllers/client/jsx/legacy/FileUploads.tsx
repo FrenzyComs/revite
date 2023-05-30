@@ -7,7 +7,7 @@ import classNames from "classnames";
 import { Text } from "preact-i18n";
 import { useEffect, useState } from "preact/hooks";
 
-import { IconButton, Preloader } from "@FrenzyComs/ui";
+import { IconButton, Preloader } from "@frenzycoms/ui";
 
 import { determineFileSize } from "../../../../lib/fileSize";
 

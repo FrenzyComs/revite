@@ -1,6 +1,6 @@
 import { ChevronDown } from "@styled-icons/boxicons-regular";
 
-import { Details } from "@FrenzyComs/ui";
+import { Details } from "@frenzycoms/ui";
 
 import { useApplicationState } from "../../mobx/State";
 

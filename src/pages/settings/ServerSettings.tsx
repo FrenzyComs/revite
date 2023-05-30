@@ -14,7 +14,7 @@ import { Route, Switch, useHistory, useParams } from "react-router-dom";
 import styles from "./Settings.module.scss";
 import { Text } from "preact-i18n";
 
-import { LineDivider } from "@FrenzyComs/ui";
+import { LineDivider } from "@frenzycoms/ui";
 
 import { state } from "../../mobx/State";
 

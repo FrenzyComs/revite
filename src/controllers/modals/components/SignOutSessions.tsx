@@ -1,7 +1,7 @@
 import { Text } from "preact-i18n";
 import { useCallback } from "preact/hooks";
 
-import { Modal } from "@FrenzyComs/ui";
+import { Modal } from "@frenzycoms/ui";
 
 import { noopTrue } from "../../../lib/js";
 

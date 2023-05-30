@@ -7,7 +7,7 @@ import styles from "./Friend.module.scss";
 import classNames from "classnames";
 import { Text } from "preact-i18n";
 
-import { IconButton } from "@FrenzyComs/ui";
+import { IconButton } from "@frenzycoms/ui";
 
 import { TextReact } from "../../lib/i18n";
 import { isTouchscreenDevice } from "../../lib/isTouchscreenDevice";

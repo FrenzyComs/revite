@@ -7,7 +7,7 @@ import { observer } from "mobx-react-lite";
 import { useLocation } from "react-router-dom";
 import styled, { css } from "styled-components/macro";
 
-import { Header } from "@FrenzyComs/ui";
+import { Header } from "@frenzycoms/ui";
 
 import { isTouchscreenDevice } from "../../lib/isTouchscreenDevice";
 

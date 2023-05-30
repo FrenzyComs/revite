@@ -9,7 +9,7 @@ import { Text } from "preact-i18n";
 import { memo } from "preact/compat";
 import { useCallback, useEffect, useMemo, useState } from "preact/hooks";
 
-import { IconButton, Picker } from "@FrenzyComs/ui";
+import { IconButton, Picker } from "@frenzycoms/ui";
 
 import TextAreaAutoSize from "../../../lib/TextAreaAutoSize";
 import { debounce } from "../../../lib/debounce";

@@ -5,7 +5,7 @@ import styled, { css } from "styled-components/macro";
 import { useTriggerEvents } from "preact-context-menu";
 import { useEffect } from "preact/hooks";
 
-import { Category } from "@FrenzyComs/ui";
+import { Category } from "@frenzycoms/ui";
 
 import ConditionalLink from "../../../lib/ConditionalLink";
 import PaintCounter from "../../../lib/PaintCounter";

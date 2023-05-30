@@ -3,7 +3,7 @@ import { API } from "revolt.js";
 
 import styles from "./Embed.module.scss";
 
-import { IconButton } from "@FrenzyComs/ui";
+import { IconButton } from "@frenzycoms/ui";
 
 interface Props {
     embed: API.Image;

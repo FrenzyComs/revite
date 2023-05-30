@@ -3,7 +3,7 @@ import { Trash } from "@styled-icons/boxicons-solid";
 
 import { Text } from "preact-i18n";
 
-import { CategoryButton } from "@FrenzyComs/ui";
+import { CategoryButton } from "@frenzycoms/ui";
 
 import {
     clientController,

@@ -16,7 +16,7 @@ import {
     InputBox,
     Modal,
     Preloader,
-} from "@FrenzyComs/ui";
+} from "@frenzycoms/ui";
 
 import { ModalProps } from "../types";
 

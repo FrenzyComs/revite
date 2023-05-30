@@ -2,7 +2,7 @@ import { X } from "@styled-icons/boxicons-regular";
 
 import { Text } from "preact-i18n";
 
-import { Column, H1, IconButton, Modal, Row } from "@FrenzyComs/ui";
+import { Column, H1, IconButton, Modal, Row } from "@frenzycoms/ui";
 
 import Markdown from "../../../components/markdown/Markdown";
 import { report } from "../../safety";

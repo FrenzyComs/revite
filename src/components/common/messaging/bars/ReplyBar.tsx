@@ -7,7 +7,7 @@ import styled from "styled-components/macro";
 import { Text } from "preact-i18n";
 import { StateUpdater, useEffect } from "preact/hooks";
 
-import { IconButton } from "@FrenzyComs/ui";
+import { IconButton } from "@frenzycoms/ui";
 
 import { internalSubscribe } from "../../../../lib/eventEmitter";
 

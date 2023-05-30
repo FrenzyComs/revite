@@ -6,7 +6,7 @@ import styles from "./Invite.module.scss";
 import { Text } from "preact-i18n";
 import { useEffect, useState } from "preact/hooks";
 
-import { Button, Category, Error, Preloader } from "@FrenzyComs/ui";
+import { Button, Category, Error, Preloader } from "@frenzycoms/ui";
 
 import { TextReact } from "../../lib/i18n";
 

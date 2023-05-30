@@ -2,7 +2,7 @@ import { useHistory } from "react-router-dom";
 
 import { Text } from "preact-i18n";
 
-import { ModalForm } from "@FrenzyComs/ui";
+import { ModalForm } from "@frenzycoms/ui";
 
 import { ModalProps } from "../types";
 

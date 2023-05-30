@@ -11,7 +11,7 @@ import styles from "./AttachmentActions.module.scss";
 import classNames from "classnames";
 import { useContext } from "preact/hooks";
 
-import { IconButton } from "@FrenzyComs/ui";
+import { IconButton } from "@frenzycoms/ui";
 
 import { determineFileSize } from "../../../../lib/fileSize";
 

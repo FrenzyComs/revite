@@ -1,6 +1,6 @@
 import { Text } from "preact-i18n";
 
-import { Column, ModalForm } from "@FrenzyComs/ui";
+import { Column, ModalForm } from "@frenzycoms/ui";
 
 import UserIcon from "../../../components/common/user/UserIcon";
 import { ModalProps } from "../types";

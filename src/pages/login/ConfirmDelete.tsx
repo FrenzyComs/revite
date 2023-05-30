@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 import { useEffect, useState } from "preact/hooks";
 
-import { Modal, Preloader } from "@FrenzyComs/ui";
+import { Modal, Preloader } from "@frenzycoms/ui";
 
 import { useApi } from "../../controllers/client/ClientController";
 

@@ -7,7 +7,7 @@ import styled, { css } from "styled-components/macro";
 
 import { Text } from "preact-i18n";
 
-import { IconButton } from "@FrenzyComs/ui";
+import { IconButton } from "@frenzycoms/ui";
 
 import { modalController } from "../../controllers/modals/ModalController";
 import Tooltip from "./Tooltip";

@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 import { Text } from "preact-i18n";
 
-import { ModalForm, Row } from "@FrenzyComs/ui";
+import { ModalForm, Row } from "@frenzycoms/ui";
 
 import Message from "../../../components/common/messaging/Message";
 import UserShort from "../../../components/common/user/UserShort";

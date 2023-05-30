@@ -15,7 +15,7 @@ import { Server } from "revolt.js";
 import { ContextMenuWithData, MenuItem } from "preact-context-menu";
 import { Text } from "preact-i18n";
 
-import { LineDivider } from "@FrenzyComs/ui";
+import { LineDivider } from "@frenzycoms/ui";
 
 import { useApplicationState } from "../../mobx/State";
 import { NotificationState } from "../../mobx/stores/NotificationOptions";

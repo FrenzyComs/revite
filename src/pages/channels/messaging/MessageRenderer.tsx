@@ -10,7 +10,7 @@ import { decodeTime } from "ulid";
 import { Text } from "preact-i18n";
 import { useEffect, useState } from "preact/hooks";
 
-import { MessageDivider, Preloader } from "@FrenzyComs/ui";
+import { MessageDivider, Preloader } from "@frenzycoms/ui";
 
 import { internalSubscribe, internalEmit } from "../../../lib/eventEmitter";
 import { ChannelRenderer } from "../../../lib/renderer/Singleton";

@@ -5,7 +5,7 @@ import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";
 import { useMemo } from "preact/hooks";
 
-import { Checkbox, LineDivider, Tip } from "@FrenzyComs/ui";
+import { Checkbox, LineDivider, Tip } from "@frenzycoms/ui";
 
 import { useApplicationState } from "../../../mobx/State";
 

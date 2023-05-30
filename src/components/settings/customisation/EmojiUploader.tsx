@@ -3,7 +3,7 @@ import { Server } from "revolt.js";
 import { Text } from "preact-i18n";
 import { useState } from "preact/hooks";
 
-import { Button, Column, Form, FormElement, Row } from "@FrenzyComs/ui";
+import { Button, Column, Form, FormElement, Row } from "@frenzycoms/ui";
 
 import { FileUploader } from "../../../controllers/client/jsx/legacy/FileUploads";
 

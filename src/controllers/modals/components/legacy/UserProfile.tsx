@@ -22,7 +22,7 @@ import {
     IconButton,
     Modal,
     Preloader,
-} from "@FrenzyComs/ui";
+} from "@frenzycoms/ui";
 
 import { noop } from "../../../../lib/js";
 

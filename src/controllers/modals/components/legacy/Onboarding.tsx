@@ -4,7 +4,7 @@ import styles from "./Onboarding.module.scss";
 import { Text } from "preact-i18n";
 import { useState } from "preact/hooks";
 
-import { Button, Preloader } from "@revoltchat/ui";
+import { Button, Preloader } from "@FrenzyComs/ui";
 
 // import wideSVG from "/assets/wide.svg";
 import background from "./assets/onboarding_background.svg";

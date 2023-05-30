@@ -3,7 +3,7 @@ import { Download, CloudDownload } from "@styled-icons/boxicons-regular";
 
 import { useEffect, useState } from "preact/hooks";
 
-import { IconButton } from "@revoltchat/ui";
+import { IconButton } from "@FrenzyComs/ui";
 
 import { internalSubscribe } from "../../lib/eventEmitter";
 

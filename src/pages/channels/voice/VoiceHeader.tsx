@@ -12,7 +12,7 @@ import styled from "styled-components/macro";
 import { Text } from "preact-i18n";
 import { useMemo } from "preact/hooks";
 
-import { Button } from "@revoltchat/ui";
+import { Button } from "@FrenzyComs/ui";
 
 import { voiceState, VoiceStatus } from "../../../lib/vortex/VoiceState";
 

@@ -20,7 +20,7 @@ import {
 } from "preact-context-menu";
 import { Text } from "preact-i18n";
 
-import { IconButton, LineDivider } from "@revoltchat/ui";
+import { IconButton, LineDivider } from "@FrenzyComs/ui";
 
 import { useApplicationState } from "../mobx/State";
 import { QueuedMessage } from "../mobx/stores/MessageQueue";

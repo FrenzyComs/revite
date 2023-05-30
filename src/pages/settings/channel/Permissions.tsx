@@ -5,7 +5,7 @@ import { Channel, API, DEFAULT_PERMISSION_DIRECT_MESSAGE } from "revolt.js";
 import { Text } from "preact-i18n";
 import { useState } from "preact/hooks";
 
-import { PermissionsLayout, Button, SpaceBetween, H1 } from "@revoltchat/ui";
+import { PermissionsLayout, Button, SpaceBetween, H1 } from "@FrenzyComs/ui";
 
 import { TextReact } from "../../../lib/i18n";
 

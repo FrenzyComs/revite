@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";
 
-import { CategoryButton, Column, Tip } from "@revoltchat/ui";
+import { CategoryButton, Column, Tip } from "@FrenzyComs/ui";
 
 export function Feedback() {
     return (
@@ -52,7 +52,7 @@ export function Feedback() {
                     </CategoryButton>
                 </a>
                 <a
-                    href="https://github.com/orgs/revoltchat/projects/3"
+                    href="https://github.com/orgs/FrenzyComs/projects/3"
                     target="_blank"
                     rel="noreferrer">
                     <CategoryButton

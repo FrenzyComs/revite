@@ -22,7 +22,7 @@ import {
     IconButton,
     Modal,
     Preloader,
-} from "@revoltchat/ui";
+} from "@FrenzyComs/ui";
 
 import { noop } from "../../../../lib/js";
 

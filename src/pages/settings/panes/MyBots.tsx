@@ -16,7 +16,7 @@ import {
     Checkbox,
     InputBox,
     Tip,
-} from "@revoltchat/ui";
+} from "@FrenzyComs/ui";
 
 import TextAreaAutoSize from "../../../lib/TextAreaAutoSize";
 import { internalEmit } from "../../../lib/eventEmitter";

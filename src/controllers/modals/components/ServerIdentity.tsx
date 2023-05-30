@@ -15,7 +15,7 @@ import {
     Modal,
     Row,
     Message,
-} from "@revoltchat/ui";
+} from "@FrenzyComs/ui";
 
 import { noop } from "../../../lib/js";
 

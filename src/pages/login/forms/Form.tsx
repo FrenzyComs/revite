@@ -6,7 +6,7 @@ import styles from "../Login.module.scss";
 import { Text } from "preact-i18n";
 import { useState } from "preact/hooks";
 
-import { Button, Category, Preloader, Tip } from "@revoltchat/ui";
+import { Button, Category, Preloader, Tip } from "@FrenzyComs/ui";
 
 import { I18nError } from "../../../context/Locale";
 

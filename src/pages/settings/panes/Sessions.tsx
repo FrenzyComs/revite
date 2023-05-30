@@ -26,7 +26,7 @@ import {
     LineDivider,
     Preloader,
     Tip,
-} from "@revoltchat/ui";
+} from "@FrenzyComs/ui";
 
 import { dayjs } from "../../../context/Locale";
 

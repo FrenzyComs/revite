@@ -7,7 +7,7 @@ import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";
 import { useEffect, useState } from "preact/hooks";
 
-import { Button, ComboBox, InputBox } from "@revoltchat/ui";
+import { Button, ComboBox, InputBox } from "@FrenzyComs/ui";
 
 import TextAreaAutoSize from "../../../lib/TextAreaAutoSize";
 import { noop } from "../../../lib/js";

@@ -4,7 +4,7 @@ module.exports = {
     jsxBracketSameLine: true,
     importOrder: [
         "preact|classnames|.scss$",
-        "^@revoltchat",
+        "^@FrenzyComs",
         "/(lib)",
         "/(redux|mobx)",
         "/(context)",

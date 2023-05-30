@@ -4,7 +4,7 @@ import styled from "styled-components/macro";
 
 import { useEffect, useState } from "preact/hooks";
 
-import { Button, Category, ComboBox, Preloader, Tip } from "@revoltchat/ui";
+import { Button, Category, ComboBox, Preloader, Tip } from "@FrenzyComs/ui";
 
 import UserIcon from "../../components/common/user/UserIcon";
 import Markdown from "../../components/markdown/Markdown";

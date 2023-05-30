@@ -8,8 +8,8 @@ This is the web client for Revolt, which is also available live at [app.transfem
 
 The following code is pending a partial or full rewrite:
 
--   `src/components`: components are being migrated to [revoltchat/components](https://github.com/FrenzyComs/components)
--   `src/styles`: needs to be migrated to [revoltchat/components](https://github.com/FrenzyComs/components)
+-   `src/components`: components are being migrated to [FrenzyComs/components](https://github.com/FrenzyComs/components)
+-   `src/styles`: needs to be migrated to [FrenzyComs/components](https://github.com/FrenzyComs/components)
 -   `src/lib`: this needs to be organised
 
 ## Stack

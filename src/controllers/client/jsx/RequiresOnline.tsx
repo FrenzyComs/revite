@@ -3,7 +3,7 @@ import styled from "styled-components/macro";
 
 import { Text } from "preact-i18n";
 
-import { Preloader } from "@revoltchat/ui";
+import { Preloader } from "@FrenzyComs/ui";
 
 import { useSession } from "../ClientController";
 

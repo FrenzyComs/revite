@@ -1,6 +1,6 @@
 import { Text } from "preact-i18n";
 
-import { Column, Modal } from "@revoltchat/ui";
+import { Column, Modal } from "@FrenzyComs/ui";
 
 import { Friend } from "../../../pages/friends/Friend";
 import { ModalProps } from "../types";

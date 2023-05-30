@@ -6,7 +6,7 @@ import styled from "styled-components/macro";
 import { Text } from "preact-i18n";
 import { useState } from "preact/hooks";
 
-import { Button, Checkbox } from "@revoltchat/ui";
+import { Button, Checkbox } from "@FrenzyComs/ui";
 
 import { useApplicationState } from "../../mobx/State";
 import { SECTION_NSFW } from "../../mobx/stores/Layout";

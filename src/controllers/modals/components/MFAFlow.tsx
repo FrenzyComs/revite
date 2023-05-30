@@ -16,7 +16,7 @@ import {
     InputBox,
     Modal,
     Preloader,
-} from "@revoltchat/ui";
+} from "@FrenzyComs/ui";
 
 import { ModalProps } from "../types";
 

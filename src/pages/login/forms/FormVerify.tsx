@@ -2,7 +2,7 @@ import { useHistory, useParams } from "react-router-dom";
 
 import { useEffect, useState } from "preact/hooks";
 
-import { Category, Preloader } from "@revoltchat/ui";
+import { Category, Preloader } from "@FrenzyComs/ui";
 
 import { I18nError } from "../../../context/Locale";
 

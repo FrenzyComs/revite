@@ -1,6 +1,6 @@
 import { User } from "revolt.js";
 
-import { Checkbox, Row, Column } from "@revoltchat/ui";
+import { Checkbox, Row, Column } from "@FrenzyComs/ui";
 
 import UserIcon from "./UserIcon";
 import { Username } from "./UserShort";

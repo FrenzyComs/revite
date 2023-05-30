@@ -3,7 +3,7 @@ import { useParams } from "react-router-dom";
 
 import { useCallback } from "preact/hooks";
 
-import { ServerList } from "@revoltchat/ui";
+import { ServerList } from "@FrenzyComs/ui";
 
 import { useApplicationState } from "../../../mobx/State";
 

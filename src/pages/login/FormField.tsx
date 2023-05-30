@@ -2,7 +2,7 @@ import { UseFormMethods } from "react-hook-form";
 
 import { Text, Localizer } from "preact-i18n";
 
-import { Category, InputBox } from "@revoltchat/ui";
+import { Category, InputBox } from "@FrenzyComs/ui";
 
 import { I18nError } from "../../context/Locale";
 

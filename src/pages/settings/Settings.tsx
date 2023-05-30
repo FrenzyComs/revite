@@ -29,7 +29,7 @@ import styles from "./Settings.module.scss";
 import { openContextMenu } from "preact-context-menu";
 import { Text } from "preact-i18n";
 
-import { LineDivider } from "@revoltchat/ui";
+import { LineDivider } from "@FrenzyComs/ui";
 
 import { useApplicationState } from "../../mobx/State";
 

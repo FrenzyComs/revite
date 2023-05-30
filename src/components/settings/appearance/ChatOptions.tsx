@@ -2,7 +2,7 @@ import { observer } from "mobx-react-lite";
 
 import { Text } from "preact-i18n";
 
-import { Column, ObservedInputElement } from "@revoltchat/ui";
+import { Column, ObservedInputElement } from "@FrenzyComs/ui";
 
 import { useApplicationState } from "../../../mobx/State";
 

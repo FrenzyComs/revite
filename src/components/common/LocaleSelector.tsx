@@ -1,4 +1,4 @@
-import { ComboBox } from "@revoltchat/ui";
+import { ComboBox } from "@FrenzyComs/ui";
 
 import { useApplicationState } from "../../mobx/State";
 

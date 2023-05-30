@@ -3,7 +3,7 @@ import styled from "styled-components/macro";
 
 import { Text } from "preact-i18n";
 
-import { Button } from "@revoltchat/ui";
+import { Button } from "@FrenzyComs/ui";
 
 import { useApplicationState } from "../../../../mobx/State";
 

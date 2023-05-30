@@ -1,6 +1,6 @@
 import { Text } from "preact-i18n";
 
-import { Modal } from "@revoltchat/ui";
+import { Modal } from "@FrenzyComs/ui";
 
 import { noopTrue } from "../../../lib/js";
 

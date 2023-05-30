@@ -8,7 +8,7 @@ import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";
 import { useEffect, useMemo, useState } from "preact/hooks";
 
-import { IconButton, InputBox, Preloader } from "@revoltchat/ui";
+import { IconButton, InputBox, Preloader } from "@FrenzyComs/ui";
 
 import UserIcon from "../../../components/common/user/UserIcon";
 

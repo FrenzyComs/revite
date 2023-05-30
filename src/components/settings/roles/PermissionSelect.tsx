@@ -7,7 +7,7 @@ import styled, { css } from "styled-components";
 import { Text } from "preact-i18n";
 import { useMemo } from "preact/hooks";
 
-import { Checkbox, OverrideSwitch } from "@revoltchat/ui";
+import { Checkbox, OverrideSwitch } from "@FrenzyComs/ui";
 
 interface PermissionSelectProps {
     id: keyof typeof Permission;

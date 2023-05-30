@@ -8,7 +8,7 @@ import classNames from "classnames";
 import { useTriggerEvents } from "preact-context-menu";
 import { Localizer, Text } from "preact-i18n";
 
-import { IconButton } from "@revoltchat/ui";
+import { IconButton } from "@FrenzyComs/ui";
 
 import { isTouchscreenDevice } from "../../../lib/isTouchscreenDevice";
 import { stopPropagation } from "../../../lib/stopPropagation";

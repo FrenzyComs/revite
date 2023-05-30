@@ -12,7 +12,7 @@ import styled, { css } from "styled-components";
 import { createPortal } from "preact/compat";
 import { useCallback, useRef, useState } from "preact/hooks";
 
-import { IconButton } from "@revoltchat/ui";
+import { IconButton } from "@FrenzyComs/ui";
 
 import { emojiDictionary } from "../../../../assets/emojis";
 import { useClient } from "../../../../controllers/client/ClientController";

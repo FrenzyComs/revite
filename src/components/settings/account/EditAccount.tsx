@@ -10,7 +10,7 @@ import {
     CategoryButton,
     Column,
     HiddenValue,
-} from "@revoltchat/ui";
+} from "@FrenzyComs/ui";
 
 import { useSession } from "../../../controllers/client/ClientController";
 import { modalController } from "../../../controllers/modals/ModalController";

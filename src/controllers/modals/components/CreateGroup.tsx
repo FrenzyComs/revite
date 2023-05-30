@@ -2,7 +2,7 @@ import { useHistory } from "react-router-dom";
 
 import { Text } from "preact-i18n";
 
-import { ModalForm } from "@revoltchat/ui";
+import { ModalForm } from "@FrenzyComs/ui";
 
 import { useClient } from "../../client/ClientController";
 import { mapError } from "../../client/jsx/error";

@@ -5,7 +5,7 @@ import styled from "styled-components/macro";
 import { Text } from "preact-i18n";
 import { useEffect, useState } from "preact/hooks";
 
-import { Button, Category, Error, InputBox, Preloader } from "@revoltchat/ui";
+import { Button, Category, Error, InputBox, Preloader } from "@FrenzyComs/ui";
 
 import { useClient } from "../../../controllers/client/ClientController";
 import Message from "../../common/messaging/Message";

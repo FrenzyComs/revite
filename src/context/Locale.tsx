@@ -8,7 +8,7 @@ import { observer } from "mobx-react-lite";
 import { IntlProvider, Text } from "preact-i18n";
 import { useCallback, useEffect, useState } from "preact/hooks";
 
-import { Error } from "@revoltchat/ui";
+import { Error } from "@FrenzyComs/ui";
 
 import { useApplicationState } from "../mobx/State";
 

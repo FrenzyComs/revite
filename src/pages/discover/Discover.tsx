@@ -5,7 +5,7 @@ import styled, { css } from "styled-components/macro";
 
 import { useEffect, useMemo, useRef, useState } from "preact/hooks";
 
-import { Header, Preloader } from "@revoltchat/ui";
+import { Header, Preloader } from "@FrenzyComs/ui";
 
 import { isTouchscreenDevice } from "../../lib/isTouchscreenDevice";
 

@@ -4,3 +4,6 @@
 [submodule "external/components"]
 	path = external/components
 	url = https://github.com/FrenzyComs/components
+[submodule "external/frenzy.js"]
+	path = external/frenzy.js
+	url = https://github.com/FrenzyComs/frenzy.js

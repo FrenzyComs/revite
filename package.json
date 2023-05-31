@@ -169,7 +169,7 @@
     "license": "MIT",
     "packageManager": "yarn@3.2.0",
     "resolutions": {
-        "@frenzycoms/ui": "portal:external/components",
+        "@frenzycoms/ui": "portal:external/components"
         // "frenzy.js": "portal:external/frenzy.js"
     }
 }

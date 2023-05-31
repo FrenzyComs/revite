@@ -170,7 +170,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/helper-create-class-features-plugin@npm:^7.21.0, @babel/helper-create-class-features-plugin@npm:^7.22.1":
+"@babel/helper-create-class-features-plugin@npm:^7.18.6, @babel/helper-create-class-features-plugin@npm:^7.21.0, @babel/helper-create-class-features-plugin@npm:^7.22.1":
   version: 7.22.1
   resolution: "@babel/helper-create-class-features-plugin@npm:7.22.1"
   dependencies:
@@ -443,6 +443,18 @@ __metadata:
   peerDependencies:
     "@babel/core": ^7.13.0
   checksum: d786e4d89c0674cab4fb65e804920782b2ff8319a3e6c561c81b0265451f4ac9f8ce1f9699303398636352b5177730e31c219a086b72980bf39f98faadeab3c1
+  languageName: node
+  linkType: hard
+
+"@babel/plugin-proposal-class-properties@npm:^7.18.6":
+  version: 7.18.6
+  resolution: "@babel/plugin-proposal-class-properties@npm:7.18.6"
+  dependencies:
+    "@babel/helper-create-class-features-plugin": ^7.18.6
+    "@babel/helper-plugin-utils": ^7.18.6
+  peerDependencies:
+    "@babel/core": ^7.0.0-0
+  checksum: 49a78a2773ec0db56e915d9797e44fd079ab8a9b2e1716e0df07c92532f2c65d76aeda9543883916b8e0ff13606afeffa67c5b93d05b607bc87653ad18a91422
   languageName: node
   linkType: hard
 
@@ -3477,6 +3489,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "client@workspace:."
   dependencies:
+    "@babel/plugin-proposal-class-properties": ^7.18.6
     "@babel/plugin-proposal-decorators": ^7.17.9
     "@floating-ui/react-dom": ^1.0.0
     "@floating-ui/react-dom-interactions": ^0.9.1

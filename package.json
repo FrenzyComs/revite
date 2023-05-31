@@ -44,6 +44,7 @@
         }
     },
     "dependencies": {
+        "@babel/plugin-proposal-class-properties": "^7.18.6",
         "fs-extra": "^10.0.0",
         "klaw": "^3.0.0",
         "sirv-cli": "^1.0.14",

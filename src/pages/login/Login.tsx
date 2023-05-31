@@ -45,8 +45,8 @@ export default observer(() => {
                     {/*<div className={styles.middle}>*/}
                     <div className={styles.form}>
                         {/*<div style={styles.version}>
-                            API: <code>{configuration?.revolt ?? "???"}</code>{" "}
-                            &middot; revolt.js: <code>{LIBRARY_VERSION}</code>{" "}
+                            API: <code>{configuration?.frenzy ?? "???"}</code>{" "}
+                            &middot; frenzy.js: <code>{LIBRARY_VERSION}</code>{" "}
                             &middot; App: <code>{APP_VERSION}</code>
                         </div>*/}
                         <Switch>
@@ -87,7 +87,7 @@ export default observer(() => {
                                 </a>
                             </div>
                             <div className={styles.bullet} />
-                            <div className={styles.revolt}>
+                            <div className={styles.frenzy}>
                                 <a
                                     href="https://transfem.pp.ua/about"
                                     target="_blank"

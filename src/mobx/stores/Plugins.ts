@@ -1,6 +1,6 @@
 import localforage from "localforage";
 import { action, computed, makeAutoObservable, ObservableMap } from "mobx";
-import { Client } from "revolt.js";
+import { Client } from "frenzy.js";
 
 import { mapToRecord } from "../../lib/conversion";
 

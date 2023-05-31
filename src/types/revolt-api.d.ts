@@ -1,4 +1,4 @@
-// TODO: re-export from revolt-api in some way
+// TODO: re-export from frenzy-api in some way
 declare type Session = {
     _id?: string;
     token: string;

@@ -6,7 +6,7 @@ import {
 } from "@floating-ui/react-dom-interactions";
 import { Plus } from "@styled-icons/boxicons-regular";
 import { observer } from "mobx-react-lite";
-import { Message } from "revolt.js";
+import { Message } from "frenzy.js";
 import styled, { css } from "styled-components";
 
 import { createPortal } from "preact/compat";

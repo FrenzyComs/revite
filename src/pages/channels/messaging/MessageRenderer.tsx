@@ -3,7 +3,7 @@ import { X } from "@styled-icons/boxicons-regular";
 import dayjs from "dayjs";
 import isEqual from "lodash.isequal";
 import { observer } from "mobx-react-lite";
-import { API, Message as MessageI, Nullable } from "revolt.js";
+import { API, Message as MessageI, Nullable } from "frenzy.js";
 import styled from "styled-components/macro";
 import { decodeTime } from "ulid";
 

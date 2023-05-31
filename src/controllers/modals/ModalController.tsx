@@ -5,7 +5,7 @@ import {
     observable,
     runInAction,
 } from "mobx";
-import type { Client, API } from "revolt.js";
+import type { Client, API } from "frenzy.js";
 import { ulid } from "ulid";
 
 import { determineLink } from "../../lib/links";

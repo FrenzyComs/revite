@@ -6,7 +6,7 @@ import {
     ObservableSet,
     runInAction,
 } from "mobx";
-import { Client } from "revolt.js";
+import { Client } from "frenzy.js";
 
 import { mapToRecord } from "../../lib/conversion";
 

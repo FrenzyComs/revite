@@ -1,4 +1,4 @@
-import { API } from "revolt.js";
+import { API } from "frenzy.js";
 
 export type RoleOrDefault = (
     | API.Role

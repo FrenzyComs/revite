@@ -1,5 +1,5 @@
 import { action, computed, makeAutoObservable } from "mobx";
-import { API, Client, Nullable } from "revolt.js";
+import { API, Client, Nullable } from "frenzy.js";
 
 import { isDebug } from "../../revision";
 import Persistent from "../interfaces/Persistent";

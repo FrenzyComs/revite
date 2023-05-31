@@ -2,7 +2,7 @@ import { Check } from "@styled-icons/boxicons-regular";
 import { Cog } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import { Link } from "react-router-dom";
-import { Server } from "revolt.js";
+import { Server } from "frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { Text } from "preact-i18n";
@@ -91,7 +91,7 @@ export default observer(({ server }: Props) => {
                                 width="20"
                             />
                             <image
-                                xlinkHref="/assets/badges/revolt_r.svg"
+                                xlinkHref="/assets/badges/frenzy_r.svg"
                                 height="15"
                                 width="15"
                                 x="2"

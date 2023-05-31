@@ -1,4 +1,4 @@
-import { Message } from "revolt.js";
+import { Message } from "frenzy.js";
 import styled from "styled-components/macro";
 
 import { useContext, useEffect, useState } from "preact/hooks";

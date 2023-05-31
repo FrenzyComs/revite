@@ -22,7 +22,7 @@ import {
 } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import { Route, Switch, useHistory } from "react-router-dom";
-import { LIBRARY_VERSION } from "revolt.js";
+import { LIBRARY_VERSION } from "frenzy.js";
 import styled from "styled-components/macro";
 
 import styles from "./Settings.module.scss";
@@ -197,7 +197,7 @@ export default observer(() => {
                 },
                 {
                     divider: true,
-                    category: "revolt",
+                    category: "frenzy",
                     id: "bots",
                     icon: <Bot size={20} />,
                     title: <Text id="app.settings.pages.bots.title" />,
@@ -320,9 +320,9 @@ export default observer(() => {
                             <span>Native: {window.nativeVersion}</span>
                         )}
                         <span>
-                            API: {client.configuration?.revolt ?? "N/A"}
+                            API: {client.configuration?.frenzy ?? "N/A"}
                         </span>
-                        <span>revolt.js: {LIBRARY_VERSION}</span>
+                        <span>frenzy.js: {LIBRARY_VERSION}</span>
                     </div>
                 </>
             }

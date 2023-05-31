@@ -1,4 +1,4 @@
-import { User } from "revolt.js";
+import { User } from "frenzy.js";
 
 import { Checkbox, Row, Column } from "@frenzycoms/ui";
 

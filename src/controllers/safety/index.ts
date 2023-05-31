@@ -1,4 +1,4 @@
-import { Server } from "revolt.js";
+import { Server } from "frenzy.js";
 
 export function report(object: Server) {
     let type;

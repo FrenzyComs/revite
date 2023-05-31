@@ -44,7 +44,7 @@ function toCodePoint(rune: string) {
 
 export function parseEmoji(emoji: string) {
     if (emoji.startsWith("custom:")) {
-        return `https://dl.insrt.uk/projects/revolt/emotes/${emoji.substring(
+        return `https://dl.insrt.uk/projects/frenzy/emotes/${emoji.substring(
             7,
         )}`;
     }

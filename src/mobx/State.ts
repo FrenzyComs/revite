@@ -2,7 +2,7 @@
 import stringify from "json-stringify-deterministic";
 import localforage from "localforage";
 import { action, makeAutoObservable, reaction, runInAction } from "mobx";
-import { Client, ClientboundNotification } from "revolt.js";
+import { Client, ClientboundNotification } from "frenzy.js";
 
 import { reportError } from "../lib/ErrorBoundary";
 import { injectWindow } from "../lib/window";

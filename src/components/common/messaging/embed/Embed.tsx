@@ -1,4 +1,4 @@
-import { API } from "revolt.js";
+import { API } from "frenzy.js";
 
 import styles from "./Embed.module.scss";
 import classNames from "classnames";

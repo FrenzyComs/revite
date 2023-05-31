@@ -1,6 +1,6 @@
 import { Hash, VolumeFull } from "@styled-icons/boxicons-regular";
 import { observer } from "mobx-react-lite";
-import { Channel } from "revolt.js";
+import { Channel } from "frenzy.js";
 
 import fallback from "./assets/group.png";
 

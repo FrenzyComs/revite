@@ -1,5 +1,5 @@
 import { action, computed, makeAutoObservable } from "mobx";
-import { API, Client } from "revolt.js";
+import { API, Client } from "frenzy.js";
 
 import { state } from "../../mobx/State";
 

@@ -4,7 +4,7 @@ import { useEffect, useState } from "preact/hooks";
 
 import { Button, CategoryButton, Checkbox, Tip } from "@frenzycoms/ui";
 
-import RLogo from "../assets/revolt_r.svg";
+import RLogo from "../assets/frenzy_r.svg";
 
 export function Native() {
     if (typeof window.native === "undefined") return null;

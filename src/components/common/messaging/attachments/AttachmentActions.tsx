@@ -5,7 +5,7 @@ import {
 } from "@styled-icons/boxicons-regular";
 import { File, Video } from "@styled-icons/boxicons-solid";
 import { isFirefox } from "react-device-detect";
-import { API } from "revolt.js";
+import { API } from "frenzy.js";
 
 import styles from "./AttachmentActions.module.scss";
 import classNames from "classnames";

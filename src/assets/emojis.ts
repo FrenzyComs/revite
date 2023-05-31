@@ -1920,7 +1920,7 @@ export const emojiDictionary = {
         rainbowHype: "custom:rainbowHype.gif",
         rawr: "custom:rawr.png",
         rember: "custom:rember.png",
-        revolt: "custom:revolt.png",
+        frenzy: "custom:frenzy.png",
         sickly: "custom:sickly.png",
         stare: "custom:stare.png",
         tfyoulookingat: "custom:tfyoulookingat.png",

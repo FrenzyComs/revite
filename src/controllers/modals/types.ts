@@ -1,4 +1,4 @@
-import { API, Client, User, Member, Channel, Server, Message } from "revolt.js";
+import { API, Client, User, Member, Channel, Server, Message } from "frenzy.js";
 
 export type Modal = {
     key?: string;

@@ -31,7 +31,7 @@ export function Feedback() {
                         <Text id="app.settings.pages.feedback.issue" />
                     </CategoryButton>
                 </a>
-                <Link to="/invite/therevolt">
+                <Link to="/invite/thefrenzy">
                     <a>
                         <CategoryButton
                             action="chevron"

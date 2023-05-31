@@ -1,8 +1,8 @@
 import { XCircle } from "@styled-icons/boxicons-regular";
 import { observer } from "mobx-react-lite";
 import { Virtuoso } from "react-virtuoso";
-import { API } from "revolt.js";
-import { Server } from "revolt.js";
+import { API } from "frenzy.js";
+import { Server } from "frenzy.js";
 
 import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";

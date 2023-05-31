@@ -1,7 +1,7 @@
 import { TimeFive } from "@styled-icons/boxicons-regular";
 import { observer } from "mobx-react-lite";
 import { useParams } from "react-router-dom";
-import { User, API } from "revolt.js";
+import { User, API } from "frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { Ref } from "preact";

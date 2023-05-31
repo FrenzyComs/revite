@@ -1,5 +1,5 @@
 /* eslint-disable react-hooks/rules-of-hooks */
-import { API } from "revolt.js";
+import { API } from "frenzy.js";
 
 import styles from "./Embed.module.scss";
 

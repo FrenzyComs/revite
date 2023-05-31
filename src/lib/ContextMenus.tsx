@@ -11,7 +11,7 @@ import {
     Permission,
     UserPermission,
     Member,
-} from "revolt.js";
+} from "frenzy.js";
 
 import {
     ContextMenuWithData,
@@ -273,7 +273,7 @@ export default function ContextMenus() {
                 case "save_file":
                     {
                         window.open(
-                            // ! FIXME: do this from revolt.js
+                            // ! FIXME: do this from frenzy.js
                             client
                                 .generateFileURL(data.attachment)
                                 ?.replace(

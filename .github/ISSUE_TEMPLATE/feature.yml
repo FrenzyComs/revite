@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before you start, a lot of bigger features may be better suited as [API issues](https://github.com/FrenzyComs/delta/issues/new) or [centralised discussions](https://github.com/FrenzyComs/revolt/discussions/new).
+        Before you start, a lot of bigger features may be better suited as [API issues](https://github.com/FrenzyComs/delta/issues/new) or [centralised discussions](https://github.com/FrenzyComs/frenzy/discussions/new).
   - type: textarea
     id: your-idea
     attributes:

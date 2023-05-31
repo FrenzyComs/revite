@@ -1,4 +1,4 @@
-import { RE_MENTIONS } from "revolt.js";
+import { RE_MENTIONS } from "frenzy.js";
 import styled from "styled-components";
 
 import { clientController } from "../../../controllers/client/ClientController";

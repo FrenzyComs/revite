@@ -1,4 +1,4 @@
-import { Message } from "revolt.js";
+import { Message } from "frenzy.js";
 
 import { ChannelRenderer } from "./Singleton";
 

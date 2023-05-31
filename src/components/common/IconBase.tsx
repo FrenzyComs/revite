@@ -1,5 +1,5 @@
-import { API } from "revolt.js";
-import { Nullable } from "revolt.js";
+import { API } from "frenzy.js";
+import { Nullable } from "frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { Ref } from "preact";

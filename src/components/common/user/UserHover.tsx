@@ -1,4 +1,4 @@
-import { User } from "revolt.js";
+import { User } from "frenzy.js";
 import styled from "styled-components/macro";
 
 import Tooltip from "../Tooltip";

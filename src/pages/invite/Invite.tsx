@@ -1,6 +1,6 @@
 import { ArrowBack } from "@styled-icons/boxicons-regular";
 import { Redirect, useHistory, useParams } from "react-router-dom";
-import { API } from "revolt.js";
+import { API } from "frenzy.js";
 
 import styles from "./Invite.module.scss";
 import { Text } from "preact-i18n";

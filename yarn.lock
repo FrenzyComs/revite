@@ -4800,7 +4800,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"frenzy-api@git+https://github.com/frenzycoms/api.git":
+frenzy-api@0.5.19:
   version: 0.5.19
   resolution: "frenzy-api@https://github.com/frenzycoms/api.git#commit=7b6acc5f05afc6ade33f13b3bfa5645ba4f2234b"
   dependencies:
@@ -4819,7 +4819,7 @@ __metadata:
     "@solid-primitives/map": ^0.4.3
     "@solid-primitives/set": ^0.4.3
     eventemitter3: ^5.0.0
-    frenzy-api: "git+https://github.com/frenzycoms/api.git"
+    frenzy-api: 0.5.19
     isomorphic-ws: ^5.0.0
     long: ^5.2.1
     solid-js: ^1.7.3

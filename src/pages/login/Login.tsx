@@ -108,13 +108,6 @@ export default observer(() => {
                                 </a>
                             </div>
                         </div>
-                        <a
-                            className={styles.attribution}
-                            href="https://unsplash.com/@fakurian"
-                            target="_blank" rel="noreferrer">
-                            <Text id="general.image_by" /> &lrm;@fakurian &rlm;·
-                            unsplash.com
-                        </a>
                     </div>
                 </div>
             </div>

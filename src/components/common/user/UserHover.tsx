@@ -1,4 +1,4 @@
-import { User } from "frenzy.js";
+import { User } from "@frenzycoms/frenzy.js";
 import styled from "styled-components/macro";
 
 import Tooltip from "../Tooltip";

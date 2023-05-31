@@ -1,4 +1,4 @@
-import { Message } from "frenzy.js";
+import { Message } from "@frenzycoms/frenzy.js";
 
 import { ChannelRenderer } from "./Singleton";
 

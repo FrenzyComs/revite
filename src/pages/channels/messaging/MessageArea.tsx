@@ -2,7 +2,7 @@ import { runInAction } from "mobx";
 import { observer } from "mobx-react-lite";
 import { useHistory, useParams } from "react-router-dom";
 import { animateScroll } from "react-scroll";
-import { Channel } from "frenzy.js";
+import { Channel } from "@frenzycoms/frenzy.js";
 import styled from "styled-components/macro";
 import useResizeObserver from "use-resize-observer";
 

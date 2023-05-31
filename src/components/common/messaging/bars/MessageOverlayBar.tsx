@@ -8,7 +8,7 @@ import {
     HappyBeaming,
 } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
-import { Message as MessageObject } from "frenzy.js";
+import { Message as MessageObject } from "@frenzycoms/frenzy.js";
 import styled from "styled-components";
 
 import { openContextMenu } from "preact-context-menu";

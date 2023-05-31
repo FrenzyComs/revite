@@ -1,6 +1,6 @@
 import { Archive } from "@styled-icons/boxicons-regular";
 import { Key, Keyboard } from "@styled-icons/boxicons-solid";
-import { API } from "frenzy.js";
+import { API } from "@frenzycoms/frenzy.js";
 
 import { Text } from "preact-i18n";
 import {

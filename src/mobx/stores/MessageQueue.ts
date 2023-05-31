@@ -5,7 +5,7 @@ import {
     makeAutoObservable,
     observable,
 } from "mobx";
-import { Message } from "frenzy.js";
+import { Message } from "@frenzycoms/frenzy.js";
 
 import Store from "../interfaces/Store";
 

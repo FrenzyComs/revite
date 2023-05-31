@@ -2,7 +2,7 @@ import { Reply } from "@styled-icons/boxicons-regular";
 import { File } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import { useHistory } from "react-router-dom";
-import { Channel, Message, API } from "frenzy.js";
+import { Channel, Message, API } from "@frenzycoms/frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { Text } from "preact-i18n";

@@ -1,5 +1,5 @@
 import { Link, useParams } from "react-router-dom";
-import { Message as MessageI } from "frenzy.js";
+import { Message as MessageI } from "@frenzycoms/frenzy.js";
 import styled from "styled-components/macro";
 
 import { Text } from "preact-i18n";

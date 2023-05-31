@@ -9,7 +9,7 @@ import {
 } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import { Link, useHistory } from "react-router-dom";
-import { UserPermission, API } from "frenzy.js";
+import { UserPermission, API } from "@frenzycoms/frenzy.js";
 
 import styles from "./UserProfile.module.scss";
 import { Localizer, Text } from "preact-i18n";

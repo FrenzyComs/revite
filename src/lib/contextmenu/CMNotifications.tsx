@@ -9,8 +9,8 @@ import {
     LeftArrowAlt,
 } from "@styled-icons/boxicons-regular";
 import { observer } from "mobx-react-lite";
-import { Channel } from "frenzy.js";
-import { Server } from "frenzy.js";
+import { Channel } from "@frenzycoms/frenzy.js";
+import { Server } from "@frenzycoms/frenzy.js";
 
 import { ContextMenuWithData, MenuItem } from "preact-context-menu";
 import { Text } from "preact-i18n";

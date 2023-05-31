@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 import { observer } from "mobx-react-lite";
-import { Channel } from "frenzy.js";
+import { Channel } from "@frenzycoms/frenzy.js";
 
 import { getRenderer } from "../../../lib/renderer/Singleton";
 

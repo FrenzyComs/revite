@@ -1,5 +1,5 @@
 import { observer } from "mobx-react-lite";
-import { Server } from "frenzy.js";
+import { Server } from "@frenzycoms/frenzy.js";
 import styled from "styled-components/macro";
 
 import { useContext } from "preact/hooks";

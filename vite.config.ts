@@ -123,7 +123,7 @@ export default defineConfig({
         },
     },
     optimizeDeps: {
-        exclude: ["frenzy.js", "preact-context-menu", "@frenzycoms/ui"],
+        exclude: ["@frenzycoms/frenzy.js", "preact-context-menu", "@frenzycoms/ui"],
     },
     resolve: {
         preserveSymlinks: true,

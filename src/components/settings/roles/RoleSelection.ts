@@ -1,4 +1,4 @@
-import { API } from "frenzy.js";
+import { API } from "@frenzycoms/frenzy.js";
 
 export type RoleOrDefault = (
     | API.Role

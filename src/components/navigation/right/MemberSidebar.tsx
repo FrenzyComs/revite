@@ -2,7 +2,7 @@
 import { autorun } from "mobx";
 import { observer } from "mobx-react-lite";
 import { useParams } from "react-router-dom";
-import { Channel, Server, User, API } from "frenzy.js";
+import { Channel, Server, User, API } from "@frenzycoms/frenzy.js";
 
 import { useEffect, useLayoutEffect, useState } from "preact/hooks";
 

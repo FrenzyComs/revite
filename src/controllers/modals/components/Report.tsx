@@ -1,4 +1,4 @@
-import { API, Message as MessageInterface, User } from "frenzy.js";
+import { API, Message as MessageInterface, User } from "@frenzycoms/frenzy.js";
 import styled from "styled-components";
 
 import { Text } from "preact-i18n";

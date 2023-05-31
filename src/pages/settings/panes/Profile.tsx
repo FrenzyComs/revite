@@ -1,7 +1,7 @@
 import { Markdown } from "@styled-icons/boxicons-logos";
 import { observer } from "mobx-react-lite";
 import { useHistory } from "react-router-dom";
-import { API } from "frenzy.js";
+import { API } from "@frenzycoms/frenzy.js";
 
 import styles from "./Panes.module.scss";
 import { Text } from "preact-i18n";

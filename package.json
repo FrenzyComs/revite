@@ -112,7 +112,7 @@
         "eslint-plugin-jsdoc": "^39.3.2",
         "eslint-plugin-mobx": "^0.0.8",
         "eventemitter3": "^4.0.7",
-        "frenzy.js": "6.0.17",
+        "@frenzycoms/frenzy.js": "6.0.17",
         "history": "4",
         "json-stringify-deterministic": "^1.0.2",
         "localforage": "^1.9.0",
@@ -171,6 +171,6 @@
     "packageManager": "yarn@3.2.0",
     "resolutions": {
         "@frenzycoms/ui": "portal:external/components",
-        "frenzy.js": "portal:external/frenzy.js"
+        "@frenzycoms/frenzy.js": "portal:external/frenzy.js"
     }
 }

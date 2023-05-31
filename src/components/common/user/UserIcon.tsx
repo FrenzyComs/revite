@@ -1,7 +1,7 @@
 import { VolumeMute, MicrophoneOff } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import { useParams } from "react-router-dom";
-import { User, API } from "frenzy.js";
+import { User, API } from "@frenzycoms/frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { useApplicationState } from "../../../mobx/State";

@@ -1,7 +1,7 @@
 import { HelpCircle } from "@styled-icons/boxicons-solid";
 import isEqual from "lodash.isequal";
 import { observer } from "mobx-react-lite";
-import { Server } from "frenzy.js";
+import { Server } from "@frenzycoms/frenzy.js";
 import styled from "styled-components";
 
 import { Text } from "preact-i18n";

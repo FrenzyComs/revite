@@ -1,4 +1,4 @@
-import { API } from "frenzy.js";
+import { API } from "@frenzycoms/frenzy.js";
 
 import styles from "./Attachment.module.scss";
 import classNames from "classnames";

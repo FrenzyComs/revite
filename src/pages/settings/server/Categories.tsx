@@ -1,7 +1,7 @@
 import { Plus, X } from "@styled-icons/boxicons-regular";
 import { observer } from "mobx-react-lite";
 import { DragDropContext } from "react-beautiful-dnd";
-import { Channel, Server, API } from "frenzy.js";
+import { Channel, Server, API } from "@frenzycoms/frenzy.js";
 import styled, { css } from "styled-components/macro";
 import { ulid } from "ulid";
 

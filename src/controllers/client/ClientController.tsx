@@ -1,6 +1,6 @@
 import { detect } from "detect-browser";
 import { action, computed, makeAutoObservable, ObservableMap } from "mobx";
-import { API, Client, Nullable } from "frenzy.js";
+import { API, Client, Nullable } from "@frenzycoms/frenzy.js";
 
 import { injectController } from "../../lib/window";
 

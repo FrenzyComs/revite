@@ -1,6 +1,6 @@
 import { DownArrowAlt } from "@styled-icons/boxicons-regular";
 import { observer } from "mobx-react-lite";
-import { Channel } from "frenzy.js";
+import { Channel } from "@frenzycoms/frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { Text } from "preact-i18n";

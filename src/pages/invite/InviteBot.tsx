@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import { API } from "frenzy.js";
+import { API } from "@frenzycoms/frenzy.js";
 import styled from "styled-components/macro";
 
 import { useEffect, useState } from "preact/hooks";

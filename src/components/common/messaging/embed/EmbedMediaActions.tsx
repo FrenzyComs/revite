@@ -1,5 +1,5 @@
 import { LinkExternal } from "@styled-icons/boxicons-regular";
-import { API } from "frenzy.js";
+import { API } from "@frenzycoms/frenzy.js";
 
 import styles from "./Embed.module.scss";
 

@@ -1,7 +1,7 @@
 import { Group } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import { useHistory } from "react-router-dom";
-import { Message, API } from "frenzy.js";
+import { Message, API } from "@frenzycoms/frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { useContext, useEffect, useState } from "preact/hooks";

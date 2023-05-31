@@ -1,7 +1,7 @@
 import { HappyBeaming, Send, ShieldX } from "@styled-icons/boxicons-solid";
 import Axios, { CancelTokenSource } from "axios";
 import { observer } from "mobx-react-lite";
-import { Channel } from "frenzy.js";
+import { Channel } from "@frenzycoms/frenzy.js";
 import styled, { css } from "styled-components/macro";
 import { ulid } from "ulid";
 

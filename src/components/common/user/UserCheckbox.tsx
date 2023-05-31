@@ -1,4 +1,4 @@
-import { User } from "frenzy.js";
+import { User } from "@frenzycoms/frenzy.js";
 
 import { Checkbox, Row, Column } from "@frenzycoms/ui";
 

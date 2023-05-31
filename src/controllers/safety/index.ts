@@ -1,4 +1,4 @@
-import { Server } from "frenzy.js";
+import { Server } from "@frenzycoms/frenzy.js";
 
 export function report(object: Server) {
     let type;

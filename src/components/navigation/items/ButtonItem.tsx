@@ -1,7 +1,7 @@
 import { X } from "@styled-icons/boxicons-regular";
 import { Crown } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
-import { User, Channel } from "frenzy.js";
+import { User, Channel } from "@frenzycoms/frenzy.js";
 
 import styles from "./Item.module.scss";
 import classNames from "classnames";

@@ -1,4 +1,4 @@
-import { Server } from "@frenzycoms/frenzy.js";
+import { Server } from "frenzy.js";
 
 import { Text } from "preact-i18n";
 import { useState } from "preact/hooks";

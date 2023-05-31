@@ -13,7 +13,7 @@ import {
 } from "@styled-icons/simple-icons";
 import relativeTime from "dayjs/plugin/relativeTime";
 import { useHistory } from "react-router-dom";
-import { API } from "@frenzycoms/frenzy.js";
+import { API } from "frenzy.js";
 import { decodeTime } from "ulid";
 
 import styles from "./Panes.module.scss";

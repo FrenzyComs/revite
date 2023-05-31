@@ -22,7 +22,7 @@ import {
 } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import { Route, Switch, useHistory } from "react-router-dom";
-import { LIBRARY_VERSION } from "@frenzycoms/frenzy.js";
+import { LIBRARY_VERSION } from "frenzy.js";
 import styled from "styled-components/macro";
 
 import styles from "./Settings.module.scss";
@@ -322,7 +322,7 @@ export default observer(() => {
                         <span>
                             API: {client.configuration?.frenzy ?? "N/A"}
                         </span>
-                        <span>@frenzycoms/frenzy.js: {LIBRARY_VERSION}</span>
+                        <span>frenzy.js: {LIBRARY_VERSION}</span>
                     </div>
                 </>
             }

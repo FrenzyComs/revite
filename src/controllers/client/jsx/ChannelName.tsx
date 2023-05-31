@@ -1,5 +1,5 @@
 // ! This should be moved into @frenzycoms/ui
-import { Channel } from "@frenzycoms/frenzy.js";
+import { Channel } from "frenzy.js";
 
 import { Text } from "preact-i18n";
 

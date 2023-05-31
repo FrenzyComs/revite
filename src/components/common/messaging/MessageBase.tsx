@@ -1,5 +1,5 @@
 import { observer } from "mobx-react-lite";
-import { Message } from "@frenzycoms/frenzy.js";
+import { Message } from "frenzy.js";
 import styled, { css, keyframes } from "styled-components/macro";
 import { decodeTime } from "ulid";
 

@@ -1,5 +1,5 @@
-import { API } from "@frenzycoms/frenzy.js";
-import { Nullable } from "@frenzycoms/frenzy.js";
+import { API } from "frenzy.js";
+import { Nullable } from "frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { Ref } from "preact";

@@ -1,4 +1,4 @@
-import { API, Channel, Permission, Server } from "@frenzycoms/frenzy.js";
+import { API, Channel, Permission, Server } from "frenzy.js";
 
 import { PermissionSelect } from "./PermissionSelect";
 

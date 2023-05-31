@@ -1,7 +1,7 @@
 import { At } from "@styled-icons/boxicons-regular";
 import { File, XCircle } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
-import { Channel, Message } from "@frenzycoms/frenzy.js";
+import { Channel, Message } from "frenzy.js";
 import styled from "styled-components/macro";
 
 import { Text } from "preact-i18n";

@@ -1,6 +1,6 @@
 import { ListOl } from "@styled-icons/boxicons-regular";
 import { Lock } from "@styled-icons/boxicons-solid";
-import { API } from "@frenzycoms/frenzy.js";
+import { API } from "frenzy.js";
 
 import { Text } from "preact-i18n";
 import { useCallback, useEffect, useState } from "preact/hooks";

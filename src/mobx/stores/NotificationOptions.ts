@@ -1,5 +1,5 @@
 import { action, computed, makeAutoObservable, ObservableMap } from "mobx";
-import { Channel, Message, Server, User } from "@frenzycoms/frenzy.js";
+import { Channel, Message, Server, User } from "frenzy.js";
 import { decodeTime } from "ulid";
 
 import { translate } from "preact-i18n";

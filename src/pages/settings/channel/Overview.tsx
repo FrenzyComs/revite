@@ -1,5 +1,5 @@
 import { observer } from "mobx-react-lite";
-import { Channel } from "@frenzycoms/frenzy.js";
+import { Channel } from "frenzy.js";
 import styled from "styled-components/macro";
 
 import { Text } from "preact-i18n";

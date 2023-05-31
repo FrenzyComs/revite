@@ -46,7 +46,7 @@ export default observer(() => {
                     <div className={styles.form}>
                         {/*<div style={styles.version}>
                             API: <code>{configuration?.frenzy ?? "???"}</code>{" "}
-                            &middot; @frenzycoms/frenzy.js: <code>{LIBRARY_VERSION}</code>{" "}
+                            &middot; frenzy.js: <code>{LIBRARY_VERSION}</code>{" "}
                             &middot; App: <code>{APP_VERSION}</code>
                         </div>*/}
                         <Switch>

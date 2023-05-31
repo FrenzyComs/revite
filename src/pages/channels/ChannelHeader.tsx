@@ -1,7 +1,7 @@
 import { At, Hash } from "@styled-icons/boxicons-regular";
 import { Notepad, Group } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
-import { Channel, User } from "@frenzycoms/frenzy.js";
+import { Channel, User } from "frenzy.js";
 import styled from "styled-components/macro";
 
 import { isTouchscreenDevice } from "../../lib/isTouchscreenDevice";

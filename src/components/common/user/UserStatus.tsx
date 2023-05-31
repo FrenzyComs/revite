@@ -1,5 +1,5 @@
 import { observer } from "mobx-react-lite";
-import { User, API } from "@frenzycoms/frenzy.js";
+import { User, API } from "frenzy.js";
 
 import { Text } from "preact-i18n";
 

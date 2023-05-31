@@ -3,7 +3,7 @@ import { Key, Clipboard, Globe, Plus } from "@styled-icons/boxicons-regular";
 import { LockAlt, HelpCircle } from "@styled-icons/boxicons-solid";
 import type { AxiosError } from "axios";
 import { observer } from "mobx-react-lite";
-import { API, User } from "@frenzycoms/frenzy.js";
+import { API, User } from "frenzy.js";
 import styled from "styled-components/macro";
 
 import styles from "./Panes.module.scss";

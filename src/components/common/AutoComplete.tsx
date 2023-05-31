@@ -1,7 +1,7 @@
 /* eslint-disable @typescript-eslint/ban-ts-comment */
 import { Link } from "react-router-dom";
-import { Channel, User } from "@frenzycoms/frenzy.js";
-import { Emoji as CustomEmoji } from "@frenzycoms/frenzy.js/esm/maps/Emojis";
+import { Channel, User } from "frenzy.js";
+import { Emoji as CustomEmoji } from "frenzy.js/esm/maps/Emojis";
 import styled, { css } from "styled-components/macro";
 
 import { StateUpdater, useState } from "preact/hooks";

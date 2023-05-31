@@ -12,7 +12,7 @@ import {
     Key,
 } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
-import { Message, API } from "@frenzycoms/frenzy.js";
+import { Message, API } from "frenzy.js";
 import styled from "styled-components/macro";
 import { decodeTime } from "ulid";
 

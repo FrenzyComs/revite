@@ -2,7 +2,7 @@ import { Check } from "@styled-icons/boxicons-regular";
 import { Cog } from "@styled-icons/boxicons-solid";
 import { observer } from "mobx-react-lite";
 import { Link } from "react-router-dom";
-import { Server } from "@frenzycoms/frenzy.js";
+import { Server } from "frenzy.js";
 import styled, { css } from "styled-components/macro";
 
 import { Text } from "preact-i18n";

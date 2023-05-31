@@ -1,5 +1,5 @@
 import axios from "axios";
-import { API } from "@frenzycoms/frenzy.js";
+import { API } from "frenzy.js";
 
 import styles from "./Attachment.module.scss";
 import { Text } from "preact-i18n";

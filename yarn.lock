@@ -8087,9 +8087,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"frenzy-api@npm:^0.5.19":
+"https://github.com/frenzycoms/api@git:^0.5.19":
   version: 0.5.19
-  resolution: "frenzy-api@npm:0.5.19"
+  resolution: "https://github.com/frenzycoms/api@git:0.5.19"
   dependencies:
     "@insertish/oapi": 0.1.18
     axios: ^0.26.1
